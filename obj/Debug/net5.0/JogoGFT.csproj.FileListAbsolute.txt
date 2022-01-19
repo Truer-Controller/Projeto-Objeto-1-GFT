@@ -1,0 +1,16 @@
+C:\Users\Rafael\Desktop\JogoGFT\bin\Debug\net5.0\JogoGFT.exe
+C:\Users\Rafael\Desktop\JogoGFT\bin\Debug\net5.0\JogoGFT.deps.json
+C:\Users\Rafael\Desktop\JogoGFT\bin\Debug\net5.0\JogoGFT.runtimeconfig.json
+C:\Users\Rafael\Desktop\JogoGFT\bin\Debug\net5.0\JogoGFT.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\JogoGFT\bin\Debug\net5.0\JogoGFT.dll
+C:\Users\Rafael\Desktop\JogoGFT\bin\Debug\net5.0\ref\JogoGFT.dll
+C:\Users\Rafael\Desktop\JogoGFT\bin\Debug\net5.0\JogoGFT.pdb
+C:\Users\Rafael\Desktop\JogoGFT\obj\Debug\net5.0\JogoGFT.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\JogoGFT\obj\Debug\net5.0\JogoGFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\JogoGFT\obj\Debug\net5.0\JogoGFT.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\JogoGFT\obj\Debug\net5.0\JogoGFT.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\JogoGFT\obj\Debug\net5.0\JogoGFT.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\JogoGFT\obj\Debug\net5.0\JogoGFT.dll
+C:\Users\Rafael\Desktop\JogoGFT\obj\Debug\net5.0\ref\JogoGFT.dll
+C:\Users\Rafael\Desktop\JogoGFT\obj\Debug\net5.0\JogoGFT.pdb
+C:\Users\Rafael\Desktop\JogoGFT\obj\Debug\net5.0\JogoGFT.genruntimeconfig.cache
